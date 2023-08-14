@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+}
+
+a {
+    color: black;
+}
+
+.lasagna {
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.lasanga-subtitle {
+    color: aliceblue;
+    font-size: 32px;
+}
+
+.grilled {
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.grilled.subtitle {
+    color: aliceblue;
+    font-size: 32px;
+}
+
+.ginger {
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.ginger.subtitle {
+    color: aliceblue;
+    font-size: 32px;
+}
